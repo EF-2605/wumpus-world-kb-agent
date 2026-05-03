@@ -23,9 +23,6 @@ This project is an implementation of the classic Wumpus World problem from Artif
 1. Download the project files
 2. Open `wumpus_world.html` in any browser
 
-OR
-
-Use the live deployed version on Vercel.
 
 ## Game Elements
 
